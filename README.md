@@ -38,8 +38,6 @@
 
 ## 🏆 Certifications
 - 🎓 Data Science Bootcamp 2025 (Udemy)  
-- 📊 SAP Business One  
-- ⚡ Automotive Electronics (Udemy)  
 
 ---
 
