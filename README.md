@@ -26,7 +26,14 @@
 ---
 
 ## 📈 GitHub Stats
-![Aflah's GitHub Stats](https://github-readme-stats.vercel.app/api?username=aflah-cholayil&show_icons=true&theme=tokyonight)  
+![Aflah's GitHub Stats](https://github-readme-stats.vercel.app/api?username=aflah-cholayil&show_icons=true&theme=tokyonight)
+![Profile Views](https://komarev.com/ghpvc/?username=aflah-cholayil&color=blueviolet)  
+![GitHub Followers](https://img.shields.io/github/followers/aflah-cholayil?style=social)  
+![GitHub Stars](https://img.shields.io/github/stars/aflah-cholayil?style=social)
+![GitHub Streak](https://streak-stats.demolab.com?user=aflah-cholayil&theme=tokyonight&hide_border=true)  
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=aflah-cholayil&layout=compact&theme=tokyonight)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?size=24&color=8A2BE2&center=true&vCenter=true&width=1000&lines=Data+Analyst+%7C+Data+Scientist+in+Progress;Turning+Data+into+Business+Insights;Passionate+about+EDA%2C+ML%2C+and+Visualization)](https://git.io/typing-svg)
+
 
 ---
 
